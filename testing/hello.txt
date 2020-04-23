@@ -1,2 +1,8 @@
 Hello Guys
+<<<<<<< HEAD
 Welcome to our awp project!!
+=======
+Welcome to our awp project
+
+And here we begin
+>>>>>>> b257da84d6b1416108ab7de31e09dea812c019e9
