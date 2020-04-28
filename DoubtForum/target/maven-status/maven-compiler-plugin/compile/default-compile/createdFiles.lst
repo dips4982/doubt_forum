@@ -1,1 +1,7 @@
+com\doubt\data\DataConnection.class
+com\doubt\data\ItemDao.class
+com\doubt\domain\Doubt.class
+com\doubt\servlets\ViewDoubt.class
+com\doubt\domain\Post.class
+com\doubt\data\DatabaseInitialize.class
 com\doubt\servlets\LoginServlet.class

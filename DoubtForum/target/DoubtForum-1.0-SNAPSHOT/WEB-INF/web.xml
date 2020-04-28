@@ -4,10 +4,18 @@
         <servlet-name>LoginServlet</servlet-name>
         <servlet-class>com.doubt.servlets.LoginServlet</servlet-class>
     </servlet>
+<!--    <servlet>
+        <servlet-name>ViewDoubt</servlet-name>
+        <servlet-class>com.doubt.servlets.ViewDoubt</servlet-class>
+    </servlet>-->
     <servlet-mapping>
         <servlet-name>LoginServlet</servlet-name>
         <url-pattern>/LoginServlet.html</url-pattern>
     </servlet-mapping>
+<!--     <servlet-mapping>
+        <servlet-name>ViewDoubt</servlet-name>
+        <url-pattern></url-pattern>
+    </servlet-mapping>-->
     <session-config>
         <session-timeout>
             30
